@@ -63,7 +63,7 @@ Bayes Theorem:
 Using Bayes theorem, we can find the probability of A happening, given that B has occurred. Here, B is the evidence and A is the hypothesis. The assumption made here is that the predictors/features are independent. That is presence of one particular feature does not affect the other. Hence it is called naive.
 
 
-[**Notebook Link**](https://github.com/soham2707/Twitter-Sentiment-Analysis-/blob/master/tweet_sentiment.ipynb)
+
 
 ## Deep Learning:
 
@@ -82,7 +82,7 @@ LSTMs also have this chain like structure, but the repeating module has a differ
   </p>
 
 
-[**Notebook Link**](https://github.com/soham2707/Twitter-Sentiment-Analysis-/blob/master/LSTM.ipynb)
+
 
 ### NOTE:
 Using GRU it is also possible, but this is not discussed here.
@@ -117,7 +117,7 @@ BERT is conceptually simple and empirically powerful. It obtains new state-of-th
     <img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/67/f199f04ecf4fe59ee6f88c8c8e2621/BERT_diagrams.png?auto=format%2Ccompress&dpr=1&w=552&h=414&fit=crop" width="1000" height="470">
   </p>
 
-[**Notebook Link**](https://github.com/soham2707/Twitter-Sentiment-Analysis-/blob/master/bert-twitter-sentiment-classifier.ipynb)
+
 
 
 
@@ -125,7 +125,7 @@ BERT is conceptually simple and empirically powerful. It obtains new state-of-th
 
 Roberta is not described here.
 
-[**Notebook Link**](https://github.com/soham2707/Twitter-Sentiment-Analysis-/blob/master/roberta-sentiment-analysis.ipynb)
+
 
 
 Results
